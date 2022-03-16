@@ -1,0 +1,5 @@
+mlflow
+xgboost
+sklearn
+boto3
+matplotlib
