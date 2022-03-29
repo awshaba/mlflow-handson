@@ -1,5 +1,5 @@
 mlflow
-xgboost
+catboost
 sklearn
 boto3
 matplotlib
